@@ -105,6 +105,12 @@ const resources = {
             name: 'Monitoring Log Application',
             description: 'Internal log monitoring and alerting application for tracking banking system events and anomalies.',
             tech: ['PHP', 'Laravel', 'MySQL', 'WebSocket']
+          },
+          {
+            name: 'Portfolio Website',
+            description: 'Personal portfolio website built with React + Vite, Framer Motion animations, and i18n support. Deployed on both delboyy.store (Docker) and portfolio.delboyy.id (Hostinger).',
+            tech: ['React', 'Vite', 'Framer Motion', 'Docker', 'Nginx'],
+            link: 'https://portfolio.delboyy.id'
           }
         ]
       },
@@ -238,9 +244,15 @@ const resources = {
             tech: ['Java', 'Spring Boot', 'REST API', 'PostgreSQL']
           },
           {
-            name: 'Aplikasi Monitoring Log',
-            description: 'Aplikasi monitoring dan alerting log internal untuk melacak event dan anomali sistem perbankan.',
+            name: 'Monitoring Log Application',
+            description: 'Internal log monitoring dan aplikasi alerting untuk memantau event dan anomali sistem perbankan.',
             tech: ['PHP', 'Laravel', 'MySQL', 'WebSocket']
+          },
+          {
+            name: 'Portfolio Website',
+            description: 'Website portofolio pribadi dengan React + Vite, animasi Framer Motion, dan dukungan i18n. Di-deploy di delboyy.store (Docker) dan portfolio.delboyy.id (Hostinger).',
+            tech: ['React', 'Vite', 'Framer Motion', 'Docker', 'Nginx'],
+            link: 'https://portfolio.delboyy.id'
           }
         ]
       },
