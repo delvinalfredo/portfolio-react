@@ -26,7 +26,7 @@ const projectImages = [
   '/project-cif.png',
   '/project-atm.svg',
   '/project-log.svg',
-  '/project-portfolio.png'
+  '/project-skills.png'
 ];
 
 function App() {

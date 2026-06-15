@@ -107,10 +107,10 @@ const resources = {
             tech: ['PHP', 'Laravel', 'MySQL', 'WebSocket']
           },
           {
-            name: 'Portfolio Website',
-            description: 'Personal portfolio website built with React + Vite, Framer Motion animations, and i18n support. Deployed on both delboyy.store (Docker) and portfolio.delboyy.id (Hostinger).',
-            tech: ['React', 'Vite', 'Framer Motion', 'Docker', 'Nginx'],
-            link: 'https://portfolio.delboyy.id'
+            name: 'Skills Dashboard',
+            description: 'Curated skill library dashboard for AI agent engineering and product management skills. Built with React + Vite with SSE-powered chat consultant.',
+            tech: ['React', 'Vite', 'Docker', 'Nginx'],
+            link: 'https://skills.delboyy.store'
           }
         ]
       },
@@ -249,10 +249,10 @@ const resources = {
             tech: ['PHP', 'Laravel', 'MySQL', 'WebSocket']
           },
           {
-            name: 'Portfolio Website',
-            description: 'Website portofolio pribadi dengan React + Vite, animasi Framer Motion, dan dukungan i18n. Di-deploy di delboyy.store (Docker) dan portfolio.delboyy.id (Hostinger).',
-            tech: ['React', 'Vite', 'Framer Motion', 'Docker', 'Nginx'],
-            link: 'https://portfolio.delboyy.id'
+            name: 'Skills Dashboard',
+            description: 'Dashboard perpustakaan skill kurasi untuk AI agent engineering dan product management. Dibangun dengan React + Vite dengan chat consultant berbasis SSE.',
+            tech: ['React', 'Vite', 'Docker', 'Nginx'],
+            link: 'https://skills.delboyy.store'
           }
         ]
       },
