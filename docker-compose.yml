@@ -1,0 +1,11 @@
+services:
+  portfolio:
+    build: .
+    container_name: portfolio-react
+    restart: unless-stopped
+    ports:
+      - "2025:80"
+    environment:
+      - NODE_ENV=production
+    labels:
+      - "com.docker.compose.project=portfolio"

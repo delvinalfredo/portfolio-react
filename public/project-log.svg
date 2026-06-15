@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 210" fill="none">
+  <rect width="300" height="210" rx="6" fill="#0f172a"/>
+  <!-- Header -->
+  <rect x="8" y="8" width="284" height="26" rx="4" fill="rgba(56,189,248,0.1)"/>
+  <circle cx="18" cy="21" r="3" fill="#38bdf8"/>
+  <circle cx="30" cy="21" r="3" fill="#38bdf8" opacity="0.5"/>
+  <circle cx="42" cy="21" r="3" fill="#38bdf8" opacity="0.3"/>
+  <!-- Log lines -->
+  <rect x="8" y="44" width="40" height="8" rx="2" fill="rgba(56,189,248,0.2)"/>
+  <rect x="52" y="44" width="100" height="8" rx="2" fill="rgba(255,255,255,0.04)"/>
+  <rect x="8" y="58" width="40" height="8" rx="2" fill="rgba(255,150,100,0.2)"/>
+  <rect x="52" y="58" width="150" height="8" rx="2" fill="rgba(255,255,255,0.04)"/>
+  <rect x="8" y="72" width="40" height="8" rx="2" fill="rgba(56,189,248,0.15)"/>
+  <rect x="52" y="72" width="80" height="8" rx="2" fill="rgba(255,255,255,0.04)"/>
+  <rect x="8" y="86" width="40" height="8" rx="2" fill="rgba(255,150,100,0.2)"/>
+  <rect x="52" y="86" width="180" height="8" rx="2" fill="rgba(255,255,255,0.04)"/>
+  <rect x="8" y="100" width="40" height="8" rx="2" fill="rgba(56,189,248,0.15)"/>
+  <rect x="52" y="100" width="120" height="8" rx="2" fill="rgba(255,255,255,0.04)"/>
+  <rect x="8" y="114" width="40" height="8" rx="2" fill="rgba(255,150,100,0.2)"/>
+  <rect x="52" y="114" width="200" height="8" rx="2" fill="rgba(255,255,255,0.04)"/>
+  <!-- Terminal block -->
+  <rect x="8" y="132" width="284" height="70" rx="4" fill="rgba(0,0,0,0.3)"/>
+  <rect x="18" y="140" width="100" height="6" rx="2" fill="rgba(56,189,248,0.3)"/>
+  <rect x="18" y="152" width="160" height="6" rx="2" fill="rgba(255,255,255,0.03)"/>
+  <rect x="18" y="164" width="140" height="6" rx="2" fill="rgba(255,255,255,0.03)"/>
+  <rect x="18" y="176" width="80" height="6" rx="2" fill="rgba(255,150,100,0.2)"/>
+  <rect x="18" y="188" width="120" height="6" rx="2" fill="rgba(255,255,255,0.03)"/>
+</svg>

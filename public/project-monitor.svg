@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 210" fill="none">
+  <rect width="300" height="210" rx="6" fill="#0f172a"/>
+  <!-- Header -->
+  <rect x="8" y="8" width="284" height="26" rx="4" fill="rgba(100,160,255,0.1)"/>
+  <circle cx="18" cy="21" r="3" fill="#6496ff"/>
+  <circle cx="30" cy="21" r="3" fill="#6496ff" opacity="0.5"/>
+  <circle cx="42" cy="21" r="3" fill="#6496ff" opacity="0.3"/>
+  <!-- CPU meter -->
+  <rect x="8" y="44" width="90" height="24" rx="4" fill="rgba(100,160,255,0.15)"/>
+  <rect x="104" y="44" width="90" height="24" rx="4" fill="rgba(100,160,255,0.08)"/>
+  <!-- Chart area -->
+  <rect x="8" y="78" width="284" height="30" rx="3" fill="rgba(100,160,255,0.05)"/>
+  <polyline points="10,105 40,88 70,98 100,82 130,95 160,78 190,92 220,85 250,90 280,80" stroke="#6496ff" stroke-width="2" fill="none" opacity="0.7"/>
+  <!-- Table rows -->
+  <rect x="8" y="118" width="284" height="14" rx="2" fill="rgba(100,160,255,0.06)"/>
+  <rect x="8" y="138" width="284" height="14" rx="2" fill="rgba(100,160,255,0.04)"/>
+  <rect x="8" y="158" width="284" height="14" rx="2" fill="rgba(100,160,255,0.06)"/>
+  <rect x="8" y="178" width="284" height="14" rx="2" fill="rgba(100,160,255,0.04)"/>
+  <rect x="8" y="198" width="284" height="3" rx="1.5" fill="rgba(255,255,255,0.03)"/>
+</svg>
